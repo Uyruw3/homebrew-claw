@@ -80,5 +80,5 @@ brew upgrade claw
 
 ## Nota
 
-La fórmula instala la última versión estable publicada (v1.1.0).
+La fórmula instala la última versión estable publicada (v1.1.1).
 
