@@ -1,8 +1,8 @@
 class Claw < Formula
   desc "Bot de deberes y exámenes para WhatsApp"
   homepage "https://github.com/ClawProject/El-Repositorio-de-Claw"
-  url "https://github.com/ClawProject/El-Repositorio-de-Claw/archive/refs/tags/v1.1.0-rc3.tar.gz"
-  sha256 "3805abe87fbcfcc8f897da87315f21cbae5a834be546d9fc591d613a8752d44e"
+  url "https://github.com/ClawProject/El-Repositorio-de-Claw/archive/refs/tags/v1.1.0-rc4.tar.gz"
+  sha256 "4fbf345ac6b19516128af5ce030fae4c317c83ac30247f6dda89aef7a2d42643"
   license :cannot_represent
 
   depends_on "ffmpeg"

@@ -7,6 +7,7 @@ para WhatsApp.
 
 ```bash
 brew tap Uyruw3/claw
+brew trust Uyruw3/claw   # Homebrew 7 y posteriores
 brew install claw
 ```
 
