@@ -80,5 +80,5 @@ brew upgrade claw
 
 ## Nota
 
-La fórmula instala una etiqueta de la rama de desarrollo mientras el servicio
-Python está en revisión. Cuando se fusione, se cambiará a la rama `main`.
+La fórmula instala la última versión estable publicada (v1.1.0).
+
